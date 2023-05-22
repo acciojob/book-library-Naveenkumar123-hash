@@ -2,16 +2,20 @@
 body{margin:0px;
 	border:0px;
 	color:#f8f8f8;}
-.book{
-	 background-color:#ffffff;
+.book-library{
 	border-radius:5px;
+}
+.book,#f1{
+	 background-color:#ffffff;
+	 border:1px solid rgb(255,255,255);
+	 border-radius:5px;
 }
 p{color:rgb(119,119,119)}
 input{background-color: rgb(46,204,113);
 	 color:rgb(255,255,255);
 	 border:rgb(255,255,255);
 	 width:100%;
-	border-radius:5px;
+	 border-radius:5px;
 	 }
 h1,h2{color:black;}
 #f1,.c1,input{text-align:center;}
