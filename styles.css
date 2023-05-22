@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{margin:0px;
+	border:0px;
+	color: #f8f8f8;}
+.book-library{
+	color: #ffffff;
+}
+p{color:#777777}
+input{background-color: #2ecc71;
+	 color:white;
+	 border:white;
+	 width:100%}
+h1{color:black;}
+#f1,.c1,input{text-align:center;}
